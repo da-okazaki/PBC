@@ -11,4 +11,4 @@ git add -A
 git commit -m "コメント"
 
 ■ リモートのリポジトリに追加
-git push origin/master
+git push origin master
